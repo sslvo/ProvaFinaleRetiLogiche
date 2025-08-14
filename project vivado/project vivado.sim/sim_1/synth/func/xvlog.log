@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/salvo/Downloads/PRJ - square_progetto_vivado/project vivado/project vivado.sim/sim_1/synth/func/tb2425_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath_address
+INFO: [VRFC 10-311] analyzing module datapath_core
+INFO: [VRFC 10-311] analyzing module datapath_counter
+INFO: [VRFC 10-311] analyzing module project_reti_logiche
+INFO: [VRFC 10-311] analyzing module glbl

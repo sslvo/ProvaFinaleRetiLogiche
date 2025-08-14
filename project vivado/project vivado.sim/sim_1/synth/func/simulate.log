@@ -1,0 +1,8 @@
+Vivado Simulator 2016.1
+Time resolution is 1 ps
+Failure: Simulation Ended! TEST PASSATO (EXAMPLE)
+Time: 2074150100 ps  Iteration: 1  Process: /tb2425/test_routine  File: C:/Users/salvo/Desktop/Progetto Reti Logiche/test/TestBench_mark2.vhd
+$finish called at time : 2074150100 ps : File "C:/Users/salvo/Desktop/Progetto Reti Logiche/test/TestBench_mark2.vhd" Line 598
+Failure: Simulation Ended! TEST PASSATO (EXAMPLE)
+Time: 2074150100 ps  Iteration: 1  Process: /tb2425/test_routine  File: C:/Users/salvo/Desktop/Progetto Reti Logiche/test/TestBench_mark2.vhd
+$finish called at time : 2074150100 ps : File "C:/Users/salvo/Desktop/Progetto Reti Logiche/test/TestBench_mark2.vhd" Line 598
